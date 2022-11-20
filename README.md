@@ -9,6 +9,8 @@
 See our free lectures on <a href="https://youtube.com/quantguild"> YouTube <a>
   
 Follow our tutorials on <a href="https://romanmichaelpaolucci.medium.com/"> Medium </a>
+  
+Support us and get access to our private code library on <a href="https://patreon.com/quantguild"> Patreon </a>
 
 Learn more about my academic work on my <a href="https://romanpaolucci.com"> portfolio website </a>
   
