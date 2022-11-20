@@ -10,6 +10,6 @@ See our free lectures on <a href="https://youtube.com/quantguild"> YouTube <a>
   
 Follow our tutorials on <a href="https://romanmichaelpaolucci.medium.com/"> Medium </a>
 
-Learn more about my academic work (including accessing papers and data) check out my <a href="https://romanpaolucci.com"> portfolio website </a>
+Learn more about my academic work on my <a href="https://romanpaolucci.com"> portfolio website </a>
   
 
