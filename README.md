@@ -1,5 +1,9 @@
 ![](banner.png)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanMichaelPaolucci)](https://github.com/RomanMichaelPaolucci/github-readme-stats)
+
+
 <!--
 **RomanMichaelPaolucci/RomanMichaelPaolucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
