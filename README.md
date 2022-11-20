@@ -8,8 +8,8 @@
   
 See our free lectures on <a href="https://youtube.com/quantguild"> YouTube <a>
   
-Follow us on <a href="https://romanmichaelpaolucci.medium.com/"> Medium </a>
+Follow our tutorials on <a href="https://romanmichaelpaolucci.medium.com/"> Medium </a>
 
-For more about my academic work (including papers and data) check out my <a href="https://romanpaolucci.com"> portfolio website </a>
+Learn more about my academic work (including accessing papers and data) check out my <a href="https://romanpaolucci.com"> portfolio website </a>
   
 
