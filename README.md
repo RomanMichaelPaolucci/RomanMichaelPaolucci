@@ -1,9 +1,5 @@
 ![](banner.png)
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanMichaelPaolucci)](https://github.com/RomanMichaelPaolucci/github-readme-stats)
-
 <b> Course Director @ <a href="https://quantguild.com"> Quant Guild <a/> </b>
   
 See our free lectures on <a href="https://youtube.com/quantguild"> YouTube <a>
